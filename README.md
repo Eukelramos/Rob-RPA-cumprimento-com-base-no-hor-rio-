@@ -7,3 +7,4 @@
 - Manipulação de variáveis
 - Message Box
 - Input Dialog 
+<img width="1024" height="1024" alt="Fluxo do robô sudações" src="https://github.com/user-attachments/assets/0c08cffb-6304-43f4-bc54-c261b8341677" />
